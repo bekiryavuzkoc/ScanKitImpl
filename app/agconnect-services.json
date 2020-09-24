@@ -1,0 +1,30 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"5190090000025522587",
+		"product_id":"736430079244645957",
+		"client_id":"458505411046147264",
+		"client_secret":"4154E182A80B0410B82D521D36BD70524F4EC474986096EAB81E466D7F588985",
+		"app_id":"102953597",
+		"package_name":"com.huawei.huaweiscankit",
+		"api_key":"CgB6e3x9kqHtfzIPQbUqNFF5RZKr8h0HE7qG7YkcWNnNqCCQ+Kok4x0hRDjBD7xkuVA4O6hckTi5ZvcEO4lwHgve"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"cloudstorage":{
+			"storage_url":"https://ops-dre.agcstorage.link"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}
